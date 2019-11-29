@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Easy Trip Planner</string>
+    <string name="facebook_app_id">266440084307765</string>
+    <string name="fb_login_protocol_scheme">fb266440084307765</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="place_api_key">AIzaSyCtfx_tJNE4Zu9np42YYsHsoI9sHwACR3c</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
